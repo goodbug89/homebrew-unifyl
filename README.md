@@ -9,6 +9,13 @@ macOS with local-only AI.
 brew install goodbug89/unifyl/unifyl
 ```
 
+Recent Homebrew versions ask you to trust third-party taps once before
+installing from them:
+
+```bash
+brew trust goodbug89/unifyl
+```
+
 Or in two steps:
 
 ```bash
