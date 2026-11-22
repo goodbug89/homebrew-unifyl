@@ -1,6 +1,6 @@
 cask "unifyl" do
-  version "2.0.3"
-  sha256 "af7d4ecd4807fb603cf1317f4f1e055a1c3a8c75e893edfec8caffc33a9a79cb"
+  version "2.0.4"
+  sha256 "01871c0d094dd95c1399305e8a134bc937ccfa86928ce38d66179df01e4b2905"
 
   url "https://github.com/goodbug89/Unifyl.app/releases/download/v#{version}/Unifyl-#{version}.dmg"
   name "Unifyl"
@@ -28,6 +28,7 @@ cask "unifyl" do
     "~/Library/WebKit/com.unifyl.app",
   ]
 end
+
 
 
 
